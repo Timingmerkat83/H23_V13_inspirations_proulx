@@ -1,6 +1,6 @@
 # Pierre-Luc Proulx 
 
-
+![Photo_de Moi]
 
 ## Intérêts dans le domaine du Multimédia
 J'ai rejoins ce programme à cause que je suis passionné de _technologies_. J'aime bien la programmation, car j'ai déjà eu de l'expérience dans le language de code  `HTML 5`, `CSS` et `JavaScript`. 
@@ -11,4 +11,4 @@ J'ai rarement eu l'occasion de faire de la réalité virtuelle puisque je n'ai p
 
 En bref, j'ai beaucoup hâte à voir ce qu'il m'attends de ce programme. Pour l'instant je reste indécis sur ce que je que je veux faire plus tard après ce programme. Je vais surement trouver ce que je désire faire plus tard.
 
-![DSC04895]
+
