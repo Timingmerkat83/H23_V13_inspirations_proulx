@@ -10,3 +10,5 @@ J'aime beaucoup dans mon temps libre faire des photo montages, en particulier de
 J'ai rarement eu l'occasion de faire de la réalité virtuelle puisque je n'ai pas de casque VR en ma possession, juste quelque de mes amis qui ont un casque virtuel chez eux et j'ai beaucoup aimé l'expérience. 
 
 En bref, j'ai beaucoup hâte à voir ce qu'il m'attends de ce programme. Pour l'instant je reste indécis sur ce que je que je veux faire plus tard après ce programme. Je vais surement trouver ce que je désire faire plus tard.
+
+![DSC04895]
