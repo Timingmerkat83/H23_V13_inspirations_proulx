@@ -1,6 +1,7 @@
 # Pierre-Luc Proulx 
 
-![Photo_de Moi]
+![Photo_de Moi]![image](https://user-images.githubusercontent.com/24527925/216881156-def037d2-a999-4017-839d-a3bf48181fcd.png)
+
 
 ## Intérêts dans le domaine du Multimédia
 J'ai rejoins ce programme à cause que je suis passionné de _technologies_. J'aime bien la programmation, car j'ai déjà eu de l'expérience dans le language de code  `HTML 5`, `CSS` et `JavaScript`. 
