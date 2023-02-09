@@ -5,7 +5,7 @@
 ### Lieu de mise de l'exposition
 
 ### Type d'exposition
-Exposition contemplative
+Exposition intérieure
 
 ### Date de visite
 
@@ -17,4 +17,4 @@ Exposition contemplative
 
 ### Description de l'oeuvre
 
-###
+####  - Type d'installation: Contemplative
