@@ -1,3 +1,4 @@
+
 # FICHE DE PRÉSENTATION
 
 ## Nom de l'exposition
@@ -18,3 +19,32 @@ Exposition intérieure
 ### Description de l'oeuvre
 
 ####  - Type d'installation: Contemplative
+
+### Mise en espace
+
+### Composantes et techniques
+
+### Éléments nécessaires à la mise en exposition
+
+### Expérience vécu
+
+### ❤️ Ce qui m'a plu & ce qui m'a donné des idées 💡
+
+### 🤔 Aspects que je ne souhaite pas retenir pour mes propres créations ou que je fairais autrement
+
+## Références
+
+- https://www.arsenalcontemporary.com
+
+
+
+
+
+
+
+
+
+
+
+
+
