@@ -2,6 +2,7 @@
 # FICHE DE PRÉSENTATION
 
 ## Nom de l'exposition
+METAMORPHOSIS - 6e Biennale d'art numérique (BIAN)
 
 ### Lieu de mise de l'exposition
 
