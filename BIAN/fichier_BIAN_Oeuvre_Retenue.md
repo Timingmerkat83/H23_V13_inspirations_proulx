@@ -11,10 +11,13 @@ Exposition intérieure
 ### Date de visite
 
 ## Titre de l'oeuvre
+Copacabana Machine Sex
 
 ### Nom de l'artiste
+Bill Vorn
 
 ### Année de réalisation
+2018
 
 ### Description de l'oeuvre
 
@@ -29,6 +32,8 @@ Exposition intérieure
 ### Expérience vécu
 
 ### ❤️ Ce qui m'a plu & ce qui m'a donné des idées 💡
+J'ai aimé plein de choses lorsqu'on a vécu le définition de l'oeuvre à l'oeil nu. Comme la chorégraphie des robots ainsi que la thématique robotique. Je pourrais regarder ce genre de spectacle pendant des heures. Cela serait une source que je pourrais m'inspirer dans mes futurs projets de multimédias.
+
 
 ### 🤔 Aspects que je ne souhaite pas retenir pour mes propres créations ou que je fairais autrement
 
