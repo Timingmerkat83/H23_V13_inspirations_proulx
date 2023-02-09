@@ -38,7 +38,7 @@ J'ai aimé plein de choses lorsqu'on a vécu le définition de l'oeuvre à l'oei
 
 ### 🤔 Aspects que je ne souhaite pas retenir pour mes propres créations ou que je fairais autrement
 
-## Références
+## Référence(s)
 
 - https://www.arsenalcontemporary.com
 
