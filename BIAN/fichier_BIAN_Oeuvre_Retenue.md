@@ -5,6 +5,8 @@
 METAMORPHOSIS - 6e Biennale d'art numérique (BIAN)
 
 ### Lieu de mise de l'exposition
+https://raw.githubusercontent.com/Timingmerkat83/H23_V13_inspirations_proulx/main/BIAN/Arsenal%20Petite.jpeg![image](https://user-images.githubusercontent.com/24527925/217890865-877c382c-d65d-4d8e-afbd-ecf95d6cee29.png)
+
 
 ### Type d'exposition
 Exposition intérieure
