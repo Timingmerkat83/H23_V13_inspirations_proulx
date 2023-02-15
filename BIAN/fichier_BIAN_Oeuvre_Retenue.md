@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/Timingmerkat83/H23_V13_inspirations_proulx/mai
 Exposition intérieure
 
 ### Date de visite
+Jeudi le 2 février 2023
 
 ## Titre de l'oeuvre
 Copacabana Machine Sex
