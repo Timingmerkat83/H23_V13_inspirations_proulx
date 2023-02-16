@@ -5,7 +5,7 @@
 METAMORPHOSIS - 6e Biennale d'art numérique (BIAN)
 
 ### Lieu de mise de l'exposition
-![image](https://user-images.githubusercontent.com/24527925/219401206-e91e1dac-e896-49c9-a9b4-eb0f22e4f1cf.png)
+![Photo du bâtiment](https://user-images.githubusercontent.com/24527925/219401206-e91e1dac-e896-49c9-a9b4-eb0f22e4f1cf.png)
 
 
 ### Type d'exposition
