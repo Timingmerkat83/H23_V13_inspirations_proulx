@@ -41,7 +41,7 @@ J'ai aimé plein de choses lorsqu'on a vécu le définition de l'oeuvre à l'oei
 
 
 ### 🤔 Aspects que je ne souhaite pas retenir pour mes propres créations ou que je fairais autrement
-Je ne pense pas vraiment m'inspirer trop de ce genre d'art, c'est beaucoup trop de travail à reproduire. Trop de programation pour faire dancer des robots pendant 15 minutes. Ce que j'aimerais faire à la place, ça serait d'animer des robots en 3D.
+Je ne pense pas vraiment m'inspirer trop de ce genre d'art, c'est beaucoup trop de travail à reproduire. Trop de programation pour faire dancer des robots pendant 15 minutes, même si j'essaierai de faire dancer des robots, je n'aurais jamais la patience de compléter ce genre de travail, je ne pense pas atteindre une certaine perfection qui est à mes attentes. Ce que j'aimerais faire à la place, ça serait d'animer des robots en 3D.
 ## Référence(s)
 
 - https://www.arsenalcontemporary.com
