@@ -5,7 +5,7 @@
 METAMORPHOSIS - 6e Biennale d'art numérique (BIAN)
 
 ### Lieu de mise de l'exposition
-![Alt text](BIAN/arsenal-batiment-fullscreen.jpeg)
+![Photo du bâtiment](BIAN/arsenal-batiment-fullscreen.jpeg)
 
 
 ### Type d'exposition
