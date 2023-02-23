@@ -46,6 +46,7 @@ Il a fallut une structure en métal afin de suspendre tout les robots que l'ont 
 ### Expérience vécu
 
 https://user-images.githubusercontent.com/24527925/220800932-c1eaece7-f29e-4429-b0f4-083b843a8a2f.mp4
+![robots](https://user-images.githubusercontent.com/24527925/220810091-9d470b97-75ef-4d24-9087-ef8d923c5843.jpg)
 
 
 ### ❤️ Ce qui m'a plu & ce qui m'a donné des idées 💡
