@@ -6,7 +6,7 @@ METAMORPHOSIS - 6e Biennale d'art numérique (BIAN)
 
 ### Lieu de mise de l'exposition
 2020 Rue William, Montréal
-<img width="35%" height="35%" align:"left" src="BIAN/arsenal-batiment-fullscreen.jpeg">
+<img width="35%" height="35%" align:"left" src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/327ca4c9245ce3d205b5b0283cdf241c6eef0447/BIAN/arsenal-batiment-fullscreen.jpeg">
 
 
 
