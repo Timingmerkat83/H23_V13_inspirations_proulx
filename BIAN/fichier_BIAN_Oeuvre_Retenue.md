@@ -27,7 +27,7 @@ Bill Vorn
 
 ### Description de l'oeuvre
 
-Copacabana Machine Sex est une performance robotique musicale et burlesque de 30 minutes n’impliquant seulement que des machines comme musiciens et danseurs. Notre but n’est pas d’imiter un véritable music hall. Au niveau esthétique, la pièce est un étrange mélange hybride entre le kitsch classique de Broadway et le côté plus sombre et industriel de nos précédents travaux. Comme dans la plupart de nos réalisations, il s’agit d’une exploration des formes et des mouvements robotiques à travers la musique, le son et la lumière.
+Copacabana Machine Sex est une performance robotique musicale et burlesque de 15 minutes n’impliquant seulement que des machines comme musiciens et danseurs, donc une sorte chorégraphie.Au niveau esthétique, la pièce est un étrange mélange hybride entre le kitsch classique de Broadway et le côté plus sombre et industriel. Il s’agit d’une exploration des formes et des mouvements robotiques à travers la musique, le son et la lumière.
 
 ####  - Type d'installation: Contemplative
 
