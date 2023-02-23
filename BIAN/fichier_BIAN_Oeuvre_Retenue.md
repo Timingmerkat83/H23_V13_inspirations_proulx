@@ -46,6 +46,7 @@ Pour la mise en exposition, le tout est mise en place dans une pièce d'environ 
 Il a fallut une structure en métal afin de suspendre tout les robots que l'ont peut voir.
 
 ### Expérience vécu
+https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/50ebbcd295a2d13ef0da4476057a95276bdd579e/BIAN/robots.mp4
 
 ### ❤️ Ce qui m'a plu & ce qui m'a donné des idées 💡
 J'ai aimé plein de choses lorsqu'on a vécu le définition de l'oeuvre à l'oeil nu. Comme la chorégraphie des robots ainsi que la thématique robotique. Je pourrais regarder ce genre de spectacle pendant des heures. Cela serait une source que je pourrais m'inspirer dans mes futurs projets de multimédias.
