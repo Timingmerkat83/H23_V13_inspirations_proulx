@@ -41,6 +41,8 @@ Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
 ### Composantes et techniques
 
 ### Éléments nécessaires à la mise en exposition
+Pour la mise en exposition, le tout est mise en place dans une pièce d'environ 10-15 mètres, dont plusieurs fils et poteaux en métal qui permettaient de tenir les robots en mouvement.
+Il a fallut une structure en métal afin de suspendre tout les robots que l'ont peut voir.
 
 ### Expérience vécu
 
@@ -49,7 +51,7 @@ J'ai aimé plein de choses lorsqu'on a vécu le définition de l'oeuvre à l'oei
 
 
 ### 🤔 Aspects que je ne souhaite pas retenir pour mes propres créations ou que je fairais autrement
-Je ne pense pas vraiment m'inspirer trop de ce genre d'art, c'est beaucoup trop de travail à reproduire. Trop de programation pour faire dancer des robots pendant 15 minutes, même si j'essaierai de faire dancer des robots, je n'aurais jamais la patience de compléter ce genre de travail, je ne pense pas atteindre une certaine perfection qui est à mes attentes. Ce que j'aimerais faire à la place, ça serait d'animer des robots en 3D.
+Je ne pense pas vraiment m'inspirer trop de ce genre d'art, c'est beaucoup trop de travail à reproduire. Trop de programation pour faire dancer des robots pendant 15 minutes, même si j'essaierai de faire dancer des robots, je n'aurais jamais la patience de compléter ce genre de travail, je ne pense pas atteindre une certaine perfection qui est à mes attentes. Ce que j'aimerais faire à la place, ça serait d'animer des robots en 3D. Aussi, j'ai trouvé que les mouvements étaient bizarres d'une certaine manière, ca me rendais incomfortable.
 ## Référence(s)
 
 - https://www.arsenalcontemporary.com
