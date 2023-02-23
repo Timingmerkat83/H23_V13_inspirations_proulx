@@ -36,6 +36,7 @@ Le thème “machine sex” n’est pas abordé au sens littéral ni au sens str
 ####  - Type d'installation: Contemplative
 
 ### Mise en espace
+Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
 
 ### Composantes et techniques
 
@@ -52,7 +53,7 @@ Je ne pense pas vraiment m'inspirer trop de ce genre d'art, c'est beaucoup trop 
 ## Référence(s)
 
 - https://www.arsenalcontemporary.com
-
+- https://billvorn.concordia.ca/robography/copacabanaF.html
 
 
 
