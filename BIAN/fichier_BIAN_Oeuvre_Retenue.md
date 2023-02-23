@@ -39,6 +39,7 @@ Le thème “machine sex” n’est pas abordé au sens littéral ni au sens str
 Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
 
 ### Composantes et techniques
+L'ensembles des robots de métals, sont suspendus en l'air avec des fils câblés au robots permettant de transférer de l'information, donc des commandes/mouvements à réaliser lors d'une performance.
 
 ### Éléments nécessaires à la mise en exposition
 Pour la mise en exposition, le tout est mise en place dans une pièce d'environ 10-15 mètres, dont plusieurs fils et poteaux en métal qui permettaient de tenir les robots en mouvement.
