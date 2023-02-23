@@ -37,6 +37,8 @@ Le thème “machine sex” n’est pas abordé au sens littéral ni au sens str
 
 ### Mise en espace
 Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
+![20230202_114516](https://user-images.githubusercontent.com/24527925/220802516-5902ce9c-62ac-4e0d-a344-c9970921e7a2.jpg)
+
 
 ### Composantes et techniques
 L'ensembles des robots de métals, sont suspendus en l'air avec des fils câblés au robots permettant de transférer de l'information, donc des commandes/mouvements à réaliser lors d'une performance.
