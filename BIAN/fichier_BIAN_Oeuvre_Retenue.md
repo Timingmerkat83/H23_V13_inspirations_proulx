@@ -32,14 +32,17 @@ Copacabana Machine Sex est une performance robotique musicale et burlesque de 30
 ####  - Type d'installation: Contemplative
 
 ### Mise en espace
+![robots drawio](https://user-images.githubusercontent.com/24527925/220810584-0ef95ebe-bf11-4af1-83a8-2a32dd51c88c.png)
+
 Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
 ![20230202_114516](https://user-images.githubusercontent.com/24527925/220802516-5902ce9c-62ac-4e0d-a344-c9970921e7a2.jpg)
-![robots](https://user-images.githubusercontent.com/24527925/220810091-9d470b97-75ef-4d24-9087-ef8d923c5843.jpg)
+
 
 ### Composantes et techniques
 L'ensembles des robots de métals, sont suspendus en l'air avec des fils câblés au robots permettant de transférer de l'information, donc des commandes/mouvements à réaliser lors d'une performance.
 
 ### Éléments nécessaires à la mise en exposition
+![robots](https://user-images.githubusercontent.com/24527925/220810091-9d470b97-75ef-4d24-9087-ef8d923c5843.jpg)
 Pour la mise en exposition, le tout est mise en place dans une pièce d'environ 10-15 mètres, dont plusieurs fils et poteaux en métal qui permettaient de tenir les robots en mouvement.
 Il a fallut une structure en métal afin de suspendre tout les robots que l'ont peut voir.
 
