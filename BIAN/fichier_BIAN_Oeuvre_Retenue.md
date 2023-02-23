@@ -35,7 +35,11 @@ Copacabana Machine Sex est une performance robotique musicale et burlesque de 15
 ### Mise en espace
 ![robots drawio](https://user-images.githubusercontent.com/24527925/220810584-0ef95ebe-bf11-4af1-83a8-2a32dd51c88c.png)
 
-Dans le 1er rang de robots, on a 5 robots positionnés en diagonale
+Dans le 1er rang de robots, on a 5 robots positionnés en diagonale formant un V composant de bras et jambes, les 4 qui sont en arrière de celui du devant possède une tête, donc une petite écran et aussi une sorte de queue de paon qui illumine lors d'une performance.
+
+Dans le 2e rang donc tout en arrière, on a une ligne horizontale composant 6 paires de jambes. 
+
+Enfin, en haut à droite de la scène, on a 6 crânes en colonnes de 3, ils inclinent leurs têtes occasionnellement.
 ![20230202_114516](https://user-images.githubusercontent.com/24527925/220802516-5902ce9c-62ac-4e0d-a344-c9970921e7a2.jpg)
 
 
