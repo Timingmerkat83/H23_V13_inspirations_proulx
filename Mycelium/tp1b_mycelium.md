@@ -12,3 +12,9 @@
 -Meryem Berbiche
 -Gabriel Leblanc
 -Jean-Cristophe
+
+### Nexum
+
+### Zidiadie Gal
+
+### Luma Sol
