@@ -1,11 +1,11 @@
-#### Les projets des 3e années
+# Les projets des 3e années
 
-### Projets
+## Projets
 
-## Echomarine
+### Echomarine
 
-## Edria
-Réalisateurs:
+### Edria
+#### Réalisateurs:
 -Elwin Durand
 -Loic Delorme
 -Dominic Robert,
