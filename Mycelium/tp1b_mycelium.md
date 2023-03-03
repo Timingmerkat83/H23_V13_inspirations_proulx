@@ -6,12 +6,22 @@
 
 ### Edria
 #### Réalisateurs:
+<table>
+  <tr>
+    <td>
 -Elwin Durand
+    </td>
+  </tr>
+  <tr>
+    <td>
 -Loic Delorme
+       </td>
+  </tr>
 -Dominic Robert,
 -Meryem Berbiche
 -Gabriel Leblanc
 -Jean-Cristophe
+  </table>
 
 ### Nexum
 
