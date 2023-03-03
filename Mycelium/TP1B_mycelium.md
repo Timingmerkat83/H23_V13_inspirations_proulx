@@ -22,7 +22,8 @@ Florence Lapierre
 
 ---
 
-#Description:
+##### Description:
+Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
 
 ---
 
@@ -109,7 +110,16 @@ Pénélope Morrisson
 
 ---
 
-## 5 - Zidiadie Gal
+## 5 - Zodie-Gal
+
+#### Réalisateur: 
+<table>
+  <tr>
+    <td>
+      Yara Abdanor
+    </td>
+  </tr>
+  </table>
 
 ---
 
