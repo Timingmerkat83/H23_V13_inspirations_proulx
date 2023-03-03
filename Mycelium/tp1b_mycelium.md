@@ -9,18 +9,35 @@
 <table>
   <tr>
     <td>
--Elwin Durand
+Elwin Durand
     </td>
   </tr>
   <tr>
     <td>
--Loic Delorme
+Loic Delorme
        </td>
   </tr>
+  <tr>
+    <td>
 -Dominic Robert,
+      </td>
+  </tr>
+      <tr>
+    <td>
 -Meryem Berbiche
+      </td>
+  </tr>
+      <tr>
+    <td>
 -Gabriel Leblanc
+      </td>
+  </tr>
+  <tr>
+    <td>
 -Jean-Cristophe
+  </td>
+  </tr>
+     
   </table>
 
 ### Nexum
