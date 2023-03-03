@@ -108,6 +108,7 @@ Pénélope Morrisson
   </tr>   
   </table>
 
+##### Description:
 ---
 
 ## 5 - Zodie-Gal
@@ -121,6 +122,7 @@ Pénélope Morrisson
   </tr>
   </table>
 
+##### Description:
 ---
 
 # [Mon projet préféré](H23_V13_inspirations_proulx/Mycelium/Oeuvre_Favori.md)
