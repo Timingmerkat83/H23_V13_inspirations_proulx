@@ -39,8 +39,7 @@ Jean-Cristophe
      
   </table>
   
-  Leur site web:
-  - https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
+  - [Leur site web]https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
   
 ---
 
