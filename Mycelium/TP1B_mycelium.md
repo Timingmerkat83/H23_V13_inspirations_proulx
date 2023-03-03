@@ -91,9 +91,15 @@ Pénélope Morrisson
 
 ---
 
-##### Liste des références
-Boucler la boucle https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
-Schéma EDRIA https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
-Schéma Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
-Schéma Luma-sol https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
-Schéma Zodie-gal https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+# [Mon projet préféré](H23_V13_inspirations_proulx/Mycelium/Oeuvre_Favori.md)
+
+---
+
+
+##### Liste des références:
+[^1]: Boucler la boucle https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
+[^2]: Schéma EDRIA https://tim-montmorency.com/2023/projets/EDRIA/docs/web/preproduction.html
+[^3]: Schéma Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+[^4]: Schéma Luma-sol https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
+[^5]: Schéma Zodie-gal https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+
