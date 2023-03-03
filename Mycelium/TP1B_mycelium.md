@@ -1,8 +1,6 @@
 # Les projets des 3e années
 
-## Projets
-
-### 1 - Echomarine
+## 1 - Echomarine
 
 #### Réalisateurs:
 <table>
@@ -28,7 +26,7 @@ Florence Lapierre
 
 ---
 
-### 2 - Edria
+## 2 - Edria
 #### Réalisateurs:
 <table>
   <tr>
@@ -61,9 +59,37 @@ Jean-Cristophe
   
 ---
 
-### 3 - Luma Sol
 
-#### Réalisateurs:
+## 3 - Nexum / Boucler la boucle
+
+#### Équipe du projet
+
+<table>
+  <tr>
+    <td>
+Sabrina Laforest
+    </td>
+    <td>
+Sébastien Reilly
+       </td>
+    <td>
+Maxime Des Lauriers
+      </td>
+    <td>
+Alexandre Daniel
+      </td>
+  </tr>   
+  </table>
+
+#### Description: 
+Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
+
+---
+
+
+## 4 - Luma Sol
+
+#### Équipe du projet:
 <table>
   <tr>
     <td>
@@ -83,11 +109,7 @@ Pénélope Morrisson
 
 ---
 
-### 4 - Nexum
-
----
-
-### 5 - Zidiadie Gal
+## 5 - Zidiadie Gal
 
 ---
 
