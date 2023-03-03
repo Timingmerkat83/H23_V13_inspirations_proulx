@@ -2,18 +2,18 @@
 
 ## Projets
 
-### Echomarine
+### 1 - Echomarine
 
 ---
 
-### Luma Sol
+### 2 - Luma Sol
 
 
 #Description:
 
 ---
 
-### Edria
+### 3 - Edria
 #### Réalisateurs:
 <table>
   <tr>
@@ -39,14 +39,14 @@ Jean-Cristophe
      
   </table>
   
-  - [Leur site web]https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html
+  - [Leur site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
   
 ---
 
-### Nexum
+### 4 - Nexum
 
 ---
 
-### Zidiadie Gal
+### 5 - Zidiadie Gal
 
 
