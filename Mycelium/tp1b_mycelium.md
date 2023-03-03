@@ -11,30 +11,20 @@
     <td>
 Elwin Durand
     </td>
-  </tr>
-  <tr>
     <td>
 Loic Delorme
        </td>
-  </tr>
-  <tr>
     <td>
--Dominic Robert,
+Dominic Robert,
       </td>
-  </tr>
-      <tr>
     <td>
--Meryem Berbiche
+Meryem Berbiche
       </td>
-  </tr>
-      <tr>
     <td>
--Gabriel Leblanc
+Gabriel Leblanc
       </td>
-  </tr>
-  <tr>
     <td>
--Jean-Cristophe
+Jean-Cristophe
   </td>
   </tr>
      
