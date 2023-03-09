@@ -53,6 +53,13 @@ Jean-Cristophe
      
   </table>
   
+  <img src="Photos/Edria_01.jpg"  align="left" style=" width: 30%;">
+   <img src="Photos/Edria_02.jpg"  style=" width: 20%;" >
+    <img src="Photos/Edria_03.jpg"  style=" width: 30%;"  >
+    
+    
+    
+  
   - [Leur site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
 
 ##### Description: 
