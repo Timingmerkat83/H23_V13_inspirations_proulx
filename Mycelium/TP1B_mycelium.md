@@ -19,8 +19,9 @@ Florence Lapierre
       </td>
   </tr>   
   </table>
+<img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
 
----
+
 
 ##### Description:
 Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
@@ -88,6 +89,8 @@ Alexandre Daniel
       </td>
   </tr>   
   </table>
+  
+  <img src="Photos/Boucler_la_boucle_01.jpg"  align="right" style=" width: 30%; display: inline">
 
 #### Description: 
 Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
@@ -114,6 +117,9 @@ Pénélope Morrisson
       </td>
   </tr>   
   </table>
+  
+   <img src="Photos/LumaSol_01.jpg"  style=" width: 30%; display: inline">
+  
 
 ##### Description:
 ---
