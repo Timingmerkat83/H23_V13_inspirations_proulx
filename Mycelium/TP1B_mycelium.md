@@ -26,6 +26,8 @@ Florence Lapierre
 ##### Description:
 Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
 
+#### Schéma
+
 ---
 
 ## 2 - Edria
@@ -65,6 +67,8 @@ Jean-Cristophe
 
 ##### Description: 
 
+#### Schéma
+
   
 ---
 
@@ -95,6 +99,8 @@ Alexandre Daniel
 #### Description: 
 Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
 
+#### Schéma
+
 ---
 
 
@@ -122,6 +128,9 @@ Pénélope Morrisson
   
 
 ##### Description:
+
+
+#### Schéma
 ---
 
 ## 5 - Zodie-Gal
@@ -136,6 +145,9 @@ Pénélope Morrisson
   </table>
 
 ##### Description:
+
+#### Schéma
+
 ---
 
 ## 3 cours du programmes incontournables pour réaliser les projets
