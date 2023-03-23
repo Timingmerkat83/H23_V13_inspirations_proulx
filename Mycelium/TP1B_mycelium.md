@@ -28,8 +28,7 @@ Le projet Echomarine est une expérience immersive, qui montre une animation pan
 
 #### Schéma :
 
-<img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/EchoMarine_sch%C3%A9ma.png"
-> [^1].
+<img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/EchoMarine_sch%C3%A9ma.png"> [^1].
 ---
 
 ## 2 - Edria
