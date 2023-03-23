@@ -100,12 +100,14 @@ Alexandre Daniel
   </tr>   
   </table>
   
-  <img src="Photos/Boucler_la_boucle_01.jpg"  align="right" style=" width: 30%; display: inline">
+  <img src="Photos/Boucler_la_boucle_01.jpg"  style=" width: 30%; display: inline">
 
 #### Description: 
 Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
 
 #### Schéma :
+
+<img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/14bc5e19d8be3cfbcb816645c99008609a9d5cc2/Mycelium/Photos/Nexum_sch%C3%A9ma.png"> [^3]
 
 
 ---
