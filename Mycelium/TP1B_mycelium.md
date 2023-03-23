@@ -19,16 +19,18 @@ Florence Lapierre
       </td>
   </tr>   
   </table>
+  
+  ##### Description:
+Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
+
 <img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
 
 
 
-##### Description:
-Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
-
 #### Schéma :
 
 <img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/EchoMarine_sch%C3%A9ma.png"> [^1].
+
 ---
 
 ## 2 - Edria
@@ -54,8 +56,10 @@ Gabriel Leblanc
 Jean-Cristophe
   </td>
   </tr>
-     
   </table>
+  
+  ##### Description: 
+  Projet collectif qui consiste d'une installation intéractive, qui se passe à l'extérieur juste en face de l'entrée du collège
   
   <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
    <img src="Photos/Edria_02.jpg"  style=" width: 20%;" >
@@ -66,7 +70,6 @@ Jean-Cristophe
   
   - [Leur site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
 
-##### Description: 
 
 #### Schéma :
 <img src="Photos/schema_electrique.png" style="width: 90%"> [^2].
