@@ -28,6 +28,8 @@ Le projet Echomarine est une expérience immersive, qui montre une animation pan
 
 #### Schéma :
 
+<img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/EchoMarine_sch%C3%A9ma.png"
+> [^1].
 ---
 
 ## 2 - Edria
@@ -68,6 +70,8 @@ Jean-Cristophe
 ##### Description: 
 
 #### Schéma :
+<img src="Photos/schema_electrique.png" style="width: 90%"> [^2].
+
 
   
 ---
@@ -131,7 +135,10 @@ Pénélope Morrisson
 ##### Description:
 
 
-#### Schéma
+#### Schéma :
+
+<img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/Sch%C3%A9ma_LumaSol.png"> [^4].
+
 ---
 
 ## 5 - Zodie-Gal
@@ -149,15 +156,15 @@ Pénélope Morrisson
 
 #### Schéma :
 <img src="Photos/Zodie-gal_schéma.png" style="width: 45%;" height="auto" align="left" display="inline-block">
-<img src="Photos/Zodie-gal_schéma_02.png" style="width: 45%;" height="auto" align="right" display="inline-block"> [^5]
+<img src="Photos/Zodie-gal_schéma_02.png" style="width: 45%;" height="auto" align="right" display="inline-block"> [^5].
 
 
 ---
 
 
 ## 3 cours du programmes incontournables pour réaliser les projets
-- Animation 2D
-- Conception Sonore, permettant de réaliser tout les effets audiovisuels.
+- Objets interactifs
+- Traitement audiovisuel, permettant de réaliser tout les effets audiovisuels.
 - Installation Multimédia
 
 
