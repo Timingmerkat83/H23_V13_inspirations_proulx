@@ -99,7 +99,8 @@ Alexandre Daniel
 #### Description: 
 Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
 
-#### Schéma
+#### Schéma :
+
 
 ---
 
@@ -146,9 +147,13 @@ Pénélope Morrisson
 
 ##### Description:
 
-#### Schéma
+#### Schéma :
+<img src="Photos/Zodie-gal_schéma.png" style="width: 45%;" height="auto" align="left" display="inline-block">
+<img src="Photos/Zodie-gal_schéma_02.png" style="width: 45%;" height="auto" align="right" display="inline-block"> [^5]
+
 
 ---
+
 
 ## 3 cours du programmes incontournables pour réaliser les projets
 - Animation 2D
