@@ -26,7 +26,7 @@ Florence Lapierre
 ##### Description:
 Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
 
-#### Schéma
+#### Schéma :
 
 ---
 
@@ -56,9 +56,9 @@ Jean-Cristophe
      
   </table>
   
-  <img src="Photos/Edria_01.jpg"  align="left" style=" width: 30%;">
+  <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
    <img src="Photos/Edria_02.jpg"  style=" width: 20%;" >
-    <img src="Photos/Edria_03.jpg"  style=" width: 30%;"  >
+    <img src="Photos/Edria_prototype_03.jpg"  style=" width: 30%;"  >
     
     
     
@@ -67,7 +67,7 @@ Jean-Cristophe
 
 ##### Description: 
 
-#### Schéma
+#### Schéma :
 
   
 ---
@@ -152,8 +152,8 @@ Pénélope Morrisson
 
 ## 3 cours du programmes incontournables pour réaliser les projets
 - Animation 2D
-- Conception Sonore
-- 
+- Conception Sonore, permettant de réaliser tout les effets audiovisuels.
+- Installation Multimédia
 
 
 # [Mon projet préféré](H23_V13_inspirations_proulx/Mycelium/Oeuvre_Favori.md)
