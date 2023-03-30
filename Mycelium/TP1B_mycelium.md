@@ -160,7 +160,7 @@ Pénélope Morrisson
 
 #### Schéma :
 <img src="Photos/Zodie-gal_schéma.png" style="width: 45%;" height="auto" align="left" display="inline-block">
-<img src="Photos/Zodie-gal_schéma_02.png" style="width: 45%;" height="auto" align="right" display="inline-block"> [^5].
+<img src="Photos/Zodie-gal_schéma_02.png" style="width: 45%;" height="auto" align="left" display="inline-block"> [^5].
 
 
 ---
