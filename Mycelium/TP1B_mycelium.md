@@ -65,7 +65,6 @@ Jean-Cristophe
   Projet collectif qui consiste d'une installation intéractive. Il représente une nature avec plein de plantes artificielles dans un carré où on peut circuler librement. 
   
   <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
-   <img src="Photos/Edria_02.jpg"  style=" width: 20%;" >
     <img src="Photos/Edria_prototype_03.jpg"  style=" width: 30%;"  >
     
     
