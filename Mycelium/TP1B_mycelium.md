@@ -26,6 +26,8 @@ Le projet Echomarine est une expérience immersive, une projection murale panora
 Le but de ce projet est de faire réagir les spectateurs concernant les animaux marins.
 
 
+### Lien avec le thème Mycélium
+
 <img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
 
 
@@ -33,6 +35,8 @@ Le but de ce projet est de faire réagir les spectateurs concernant les animaux 
 #### Schéma :
 
 <img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/3c63b9d6d00404856c03d1122c920f6f4a6fc9a7/Mycelium/Photos/EchoMarine_sch%C3%A9ma.png"> [^1].
+
+
 
 ---
 
@@ -64,10 +68,12 @@ Jean-Cristophe
   ##### Description: 
   Projet collectif qui consiste d'une installation intéractive. Il représente une nature avec plein de plantes artificielles dans un carré où on peut circuler librement. 
   
+### Lien avec le thème Mycélium  
+
   <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
     <img src="Photos/Edria_prototype_03.jpg"  style=" width: 30%;"  >
     
-    
+
     
   
   - [Leur site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
@@ -107,6 +113,8 @@ Nexum est une expérience lumineuse de type immersive et interactive, une ambian
 
 On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
   
+### Lien avec le thème Mycélium
+
   <img src="Photos/Boucler_la_boucle_01.jpg"  style=" width: 30%; display: inline">
 
 
@@ -114,6 +122,7 @@ On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous
 #### Schéma :
 
 <img src="https://github.com/Timingmerkat83/H23_V13_inspirations_proulx/blob/14bc5e19d8be3cfbcb816645c99008609a9d5cc2/Mycelium/Photos/Nexum_sch%C3%A9ma.png"> [^3]
+
 
 
 ---
@@ -147,6 +156,7 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
 
 On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières qu'ils avaient besoins pour le projet.
 
+### Lien avec le thème Mycélium
 
 #### Schéma :
 
@@ -169,6 +179,10 @@ On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l
 Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
 
 On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure.
+
+### Lien avec le thème Mycélium
+Aucune idée
+
 
 #### Schéma :
 <img src="Photos/Zodie-gal_schéma.png" style="width: 45%;" height="auto" align="left" display="inline-block">
