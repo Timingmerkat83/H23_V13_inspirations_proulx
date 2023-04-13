@@ -160,7 +160,9 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
   </tr>
   </table>
 
-##### Description:
+##### Description: Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
+
+On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure.
 
 #### Schéma :
 <img src="Photos/Zodie-gal_schéma.png" style="width: 45%;" height="auto" align="left" display="inline-block">
