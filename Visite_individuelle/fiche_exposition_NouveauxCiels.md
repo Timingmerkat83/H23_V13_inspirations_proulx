@@ -14,8 +14,15 @@ Nouveaux Ciels a été réalisé en 2021
 
 ### Lieu de l'exposition
 
-L'exposition se trouve au Planétarium Rio Tinto Alcan à Montréal
+L'exposition se trouve au Planétarium Rio Tinto Alcan à Montréal, est voisin du Stade Olympique et du Biodôme.
+
+#### Informations du lieu
+
+Le Planétarium Rio Tinto Alcan étant le succésseur du Planétarium de Montréal.
+
 <img src="Medias/Photos/planeterium.jpg" width="100%">
+
+
 
 ### Ma date de visite
 
