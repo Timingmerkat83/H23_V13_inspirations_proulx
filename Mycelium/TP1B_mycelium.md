@@ -103,10 +103,14 @@ Alexandre Daniel
   </tr>   
   </table>
   
+  #### Description: 
+Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière. La nature et l'aspect biologique est bien démontré.
+
+On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
+  
   <img src="Photos/Boucler_la_boucle_01.jpg"  style=" width: 30%; display: inline">
 
-#### Description: 
-Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière.
+
 
 #### Schéma :
 
@@ -160,7 +164,8 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
   </tr>
   </table>
 
-##### Description: Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
+##### Description: 
+Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
 
 On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure.
 
