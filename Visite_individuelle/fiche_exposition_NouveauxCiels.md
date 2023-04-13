@@ -11,7 +11,6 @@ Cette pièce a été réalisé par le studio __Félix & Paul__
 ## Année de réalisation
 Nouveaux Ciels a été réalisé en 2021
 
- ---
 
 ### Lieu de l'exposition
 
@@ -31,5 +30,9 @@ J'ai été visité le jeudi 2 mars 2023 [^note].
 
 ### Type d'exposition
 C'était une exposition intérieure et immersive, c'était comme aller au cinéma.
+
+---
+
+# Présentation de l'oeuvre
 
 [^note]: Visite faite avec mon père
