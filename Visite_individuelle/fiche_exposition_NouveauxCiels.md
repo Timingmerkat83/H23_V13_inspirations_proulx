@@ -1,6 +1,6 @@
 # Ma visite individuelle
 
-<img src="Medias/Photos/nouveaux-ciels.jpeg" width="50%" align="left" >
+<img src="Medias/Photos/nouveaux-ciels.jpeg" width="60%" align="right" >
 
 ## Titre
 Nouveaux Ciels
