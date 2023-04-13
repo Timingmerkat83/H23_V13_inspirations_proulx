@@ -21,7 +21,10 @@ Florence Lapierre
   </table>
   
   ##### Description:
-Le projet Echomarine est une expérience immersive, qui montre une animation panoramique avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan. 
+Le projet Echomarine est une expérience immersive, une projection murale panoramique qui montre une animation avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan, le thème ici étant les animaux sous-marins en voie d'extinction. 
+
+Le but de ce projet est de faire réagir les spectateurs concernant les animaux marins.
+
 
 <img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
 
