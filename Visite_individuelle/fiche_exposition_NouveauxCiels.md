@@ -3,6 +3,7 @@
 ### Lieu de l'exposition
 
 L'exposition se trouve au Planétarium Rio Tinto Alcan à Montréal
+<img src="Medias/Photos/planeterium.jpg" width="75%">
 
 ### Ma date de visite
 
