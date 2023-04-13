@@ -180,6 +180,10 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
 
 ---
 
+## Technique ou composante technologique
+
+Principallement MadMapper, c'est un logiciel qui a été utilisé par la majorité des équipes auquel je ne suis pas du tout familier. Il sert à la cartographie vidéo et affichage LED [^6]. Très professionnel dans le milieu des arts multimédias.
+
 
 ##### Liste des références:
 [^1]: Boucler la boucle https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/preproduction.html
@@ -187,4 +191,5 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
 [^3]: Schéma Echomarine https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
 [^4]: Schéma Luma-sol https://tim-montmorency.com/2023/projets/LumaSol/docs/web/preproduction.html
 [^5]: Schéma Zodie-gal https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/preproduction.html
+[^6]: MadMapper https://madmapper.com/madmapper/software
 
