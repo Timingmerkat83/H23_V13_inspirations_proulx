@@ -146,7 +146,7 @@ Pénélope Morrisson
 ##### Description:
 Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant de générer de l'énergie vers des lumières attachés dans un arbre. Le but du projet est de partager le message qu'il y a un mode de vie écologique et qu'il y a plein de techniques à mieux prendre soin de la nature.
 
-On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câble qu'ils avaient besoins pour le projet.
+On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières qu'ils avaient besoins pour le projet.
 
 
 #### Schéma :
