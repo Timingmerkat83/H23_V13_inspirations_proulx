@@ -25,9 +25,12 @@ Le projet Echomarine est une expérience immersive, une projection murale panora
 
 Le but de ce projet est de faire réagir les spectateurs concernant les animaux marins.
 
+J'ai mis ce projet en première position car j'aime beaucoup le thème aquatique, l'ambiance et l'intéraction m'a beaucoup plus.
+
 
 ### Lien avec le thème Mycélium:
 Vu que cette oeuvre parle d'animaux marins en voies d'extinction, l'oeuvre a une thèmatique claire de la nature. Le spectateur intéragit avec un site internet qui permet de générer une série de sons et l'animation de l'animal sélectionné. Le lien avec le thème Mycelium ici est l'utilisation d'un site internet, l'internet lui-même permettant à la communication tout comme les champignons.
+
 
 <img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
 
@@ -180,6 +183,8 @@ On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l
 Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
 
 On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure.
+
+J'ai mis ce projet en dernière position car je n'ai aucune idée à quoi ressemble le projet.
 
 ### Lien avec le thème Mycélium
 Aucune idée
