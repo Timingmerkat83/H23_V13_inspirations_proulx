@@ -186,6 +186,8 @@ On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisate
 
 J'ai mis ce projet en dernière position car j'ai essayé le jeu, j'ai bien aimé, le concept est unique comparé aux autres projets, mais j'aurais aimé que la personne soit là pour expliquer le scénario de son jeu et son projet.
 
+Le jeu est compliqué à comprendre car il n'a pas vraiment de dialogue ou comment la jeune fille s'est trouvé dans un endroit pareille. J'ai beaucoup aimé le style de dessin, même si les dessins paraient tous comme un croquis, c'est difficile d'identifier qu'est-ce qui est quoi ou de savoir qu'est-ce qui se passe dans l'image. Les dessins n'ont pas d'animation, bon c'est un détail, l'animation visuel (particules, etc.) est bien.
+
 ### Lien avec le thème Mycélium
 Aucune idée
 
