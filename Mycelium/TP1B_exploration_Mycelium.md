@@ -160,6 +160,8 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
 
 On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières qu'ils avaient besoins pour le projet.
 
+J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, c'est pas mon préféré.
+
 ### Lien avec le thème Mycélium
 
 #### Schéma :
