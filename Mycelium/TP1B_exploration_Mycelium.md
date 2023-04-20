@@ -182,9 +182,9 @@ On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l
 ##### Description: 
 Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
 
-On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure.
+On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure. Mais sur son site de préproduction, il est expliqué que le projet est censé être un jeu intéractif accessible au public.
 
-J'ai mis ce projet en dernière position car je n'ai aucune idée à quoi ressemble le projet.
+J'ai mis ce projet en dernière position car j'ai essayé le jeu, j'ai bien aimé, le concept est unique comparé aux autres projets, mais j'aurais aimé que la personne soit là pour expliquer le scénario de son jeu et son projet.
 
 ### Lien avec le thème Mycélium
 Aucune idée
