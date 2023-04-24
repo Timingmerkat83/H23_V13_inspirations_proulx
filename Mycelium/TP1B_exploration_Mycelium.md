@@ -120,6 +120,7 @@ Nexum est une expérience lumineuse de type immersive et interactive, une ambian
 On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
   
 ### Lien avec le thème Mycélium: 
+Le lien du projet avec Mycélium, est l'environnement en lien avec la nature qui donne une sensation paisible lorsqu'on expérimente le projet.
 
 
 
