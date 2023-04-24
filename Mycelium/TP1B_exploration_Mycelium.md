@@ -73,7 +73,8 @@ Jean-Cristophe
   ##### Description: 
   Projet collectif qui consiste d'une installation intéractive. Il représente une nature avec plein de plantes artificielles dans un carré où on peut circuler librement. 
   
-### Lien avec le thème Mycélium  
+### Lien avec le thème Mycélium  :
+Comme que le projet est une installation intéractive et lumineuse, donc le lien du projet Nexum avec le thèeme Mycélium s'agit d'un parcours lumineux avec des détails de la nature.
 
   <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
     <img src="Photos/Edria_prototype_03.jpg"  style=" width: 30%;"  >
@@ -119,7 +120,7 @@ Nexum est une expérience lumineuse de type immersive et interactive, une ambian
 On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
   
 ### Lien avec le thème Mycélium: 
-Le lien du projet Nexum avec le thèeme Mycélium s'agit d'un parcours lumineux avec des détails de la nature.
+
 
 
 
