@@ -29,6 +29,7 @@ J'ai mis ce projet en première position car j'aime beaucoup le thème aquatique
 
 
 ### Lien avec le thème Mycélium:
+--
 Vu que cette oeuvre parle d'animaux marins en voies d'extinction, l'oeuvre a une thèmatique claire de la nature. Le spectateur intéragit avec un site internet qui permet de générer une série de sons et l'animation de l'animal sélectionné. Le lien avec le thème Mycelium ici est l'utilisation d'un site internet, l'internet lui-même permettant à la communication tout comme les champignons.
 
 
@@ -117,7 +118,10 @@ Nexum est une expérience lumineuse de type immersive et interactive, une ambian
 
 On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
   
-### Lien avec le thème Mycélium
+### Lien avec le thème Mycélium: 
+Le lien du projet Nexum avec le thèeme Mycélium s'agit d'un parcours lumineux avec des détails de la nature.
+
+
 
   <img src="Photos/Boucler_la_boucle_01.jpg"  style=" width: 30%; display: inline">
 
@@ -162,7 +166,9 @@ On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l
 
 J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, c'est pas mon préféré.
 
-### Lien avec le thème Mycélium
+### Lien avec le thème Mycélium :
+Similaire au concept du projet Nexum, avec un thème de la nature, celle-ci illumine de la lumière grâce à un générateur d'énergie.
+
 
 #### Schéma :
 
