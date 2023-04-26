@@ -8,4 +8,4 @@ Sa présentation se focalise sur le cheminement de la création d'un projet, des
 
 Durant sa conférence, elle explique une liste de cinq différent secteurs de travail: Collection et expositions muséales, les expositions immersives, l'art public temporarire, l'art public permanent et ainsi les Parkours aussi nommé *Art Walks*. Karine fournit des explications sur le domaine de travail et les tâches nécessaires afin d'accomplir une oeuvre multimédia. Elle décrit l'importance de la documentation de tout les projets.
 
-Bref, la conférence de Karine était éducative, j'ai aimé toute l'informations qui a été expliquées lors de la présentation, j'ai beaucoup appris sur la conscience du processus d'une projet et tout les étapes que l'on doit considérer afin d'arriver à sa mise en exposition. 
+Bref, la conférence de Karine était éducative, j'ai aimé toute l'informations qui a été expliquées lors de la présentation, elles étaient bien élaborées ce qui m'a donné la capacité de comprendre ce qui a été dit. J'ai beaucoup appris sur la conscience du processus d'une projet et tout les étapes que l'on doit considérer afin d'arriver à sa mise en exposition. 
