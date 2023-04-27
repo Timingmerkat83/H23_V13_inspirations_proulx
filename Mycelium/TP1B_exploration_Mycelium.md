@@ -118,9 +118,13 @@ Alexandre Daniel
 Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière. La nature et l'aspect biologique est bien démontré.
 
 On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
-  
+
+J'ai mis ce projet en 3e position car je comprenais pas trop le lien avec la nature, j'ai aimé l'intéraction avec les ampoules.
+
 ### Lien avec le thème Mycélium: 
 Le lien du projet avec Mycélium, est l'environnement en lien avec la nature qui donne une sensation paisible lorsqu'on expérimente le projet.
+
+
 
 
 
@@ -166,7 +170,7 @@ Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant d
 
 On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières qu'ils avaient besoins pour le projet.
 
-J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, c'est pas mon préféré.
+J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, c'est pas mon préféré. J'ai pas aussi apprécié l'expérience dans le studio puisqu'il y en avait juste pas.
 
 ### Lien avec le thème Mycélium :
 Similaire au concept du projet Nexum, avec un thème de la nature, celle-ci illumine de la lumière grâce à un générateur d'énergie.
