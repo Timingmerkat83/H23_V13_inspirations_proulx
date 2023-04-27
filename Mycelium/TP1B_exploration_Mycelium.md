@@ -21,16 +21,17 @@ Florence Lapierre
   </table>
   
   ##### Description:
-Le projet Echomarine est une expérience immersive, une projection murale panoramique qui montre une animation avec des ambiances sonorisés qui faient penser qu'on serait sous l'océan, le thème ici étant les animaux sous-marins en voie d'extinction. 
+Le projet Echomarine est une expérience immersive, une projection murale panoramique qui montre une animation avec des ambiances sonorisées qui fait penser qu'on serait sous l'océan, le thème ici étant les animaux sous-marins en voie d'extinction. 
 
 Le but de ce projet est de faire réagir les spectateurs concernant les animaux marins.
 
-J'ai mis ce projet en première position car j'aime beaucoup le thème aquatique, l'ambiance et l'intéraction m'a beaucoup plus.
+J'ai mis ce projet en première position, car j'aime beaucoup le thème aquatique, l'ambiance et l'interaction m'a beaucoup plus.
+
 
 
 ### Lien avec le thème Mycélium:
 --
-Vu que cette oeuvre parle d'animaux marins en voies d'extinction, l'oeuvre a une thèmatique claire de la nature. Le spectateur intéragit avec un site internet qui permet de générer une série de sons et l'animation de l'animal sélectionné. Le lien avec le thème Mycelium ici est l'utilisation d'un site internet, l'internet lui-même permettant à la communication tout comme les champignons.
+Vu que cette œuvre parle d'animaux marins en voies d'extinction, l'œuvre a une thématique claire de la nature. Le spectateur interagit avec un site internet qui permet de générer une série de sons et l'animation de l'animal sélectionné. Le lien avec le thème Mycélium ici est l'utilisation d'un site internet, l'internet lui-même permettant à la communication tout comme les champignons.
 
 
 <img src="Photos/Echo_marine_01.jpg"  style=" width: 50%; display: inline">
@@ -71,10 +72,11 @@ Jean-Cristophe
   </table>
   
   ##### Description: 
-  Projet collectif qui consiste d'une installation intéractive. Il représente une nature avec plein de plantes artificielles dans un carré où on peut circuler librement. 
+  Projet collectif qui consiste d'une installation interactive. Il représente une nature avec plein de plantes artificielles dans un carré où on peut circuler librement. 
   
 ### Lien avec le thème Mycélium  :
-Comme que le projet est une installation intéractive et lumineuse, donc le lien du projet Nexum avec le thèeme Mycélium s'agit d'un parcours lumineux avec des détails de la nature.
+Comme que le projet est une installation interactive et lumineuse, donc le lien du projet Nexum avec le thème Mycélium s'agit d'un parcours lumineux avec des détails de la nature.
+
 
   <img src="Photos/Edria_prototype_01.jpg"  align="left" style=" width: 30%;">
     <img src="Photos/Edria_prototype_03.jpg"  style=" width: 30%;"  >
@@ -115,14 +117,15 @@ Alexandre Daniel
   </table>
   
   #### Description: 
-Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière. La nature et l'aspect biologique est bien démontré.
+Nexum est une expérience lumineuse de type immersive et interactive, une ambiance harmonieuse et musicale lorsque l'on se promène entre le chemin de lumière. Les aspects nature et l'aspect biologique sont bien démontrés.
 
-On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambience sonore lorsque l'individue passe à travers le chemin grâce à des capteurs de mouvement.
+On a pu voir dans le studio une sorte de prototype de leur chemin lumineux. Nous avons pu expérimenter leur projet. Leurs chemins s'illuminent et émettent de l'ambiance sonore lorsque l'individu passe à travers le chemin grâce à des capteurs de mouvement.
 
-J'ai mis ce projet en 3e position car je comprenais pas trop le lien avec la nature, j'ai aimé l'intéraction avec les ampoules.
+J'ai mis ce projet en 3e position, car je ne comprenais pas trop le lien avec la nature, j'ai aimé l'interaction avec les ampoules.
+
 
 ### Lien avec le thème Mycélium: 
-Le lien du projet avec Mycélium, est l'environnement en lien avec la nature qui donne une sensation paisible lorsqu'on expérimente le projet.
+Le lien du projet avec Mycélium est l'environnement en lien avec la nature qui donne une sensation paisible lorsqu'on expérimente le projet.
 
 
 
@@ -166,14 +169,15 @@ Pénélope Morrisson
   
 
 ##### Description:
-Ce projet intéractif consite à pédaler sur un vélo stationnaire permettant de générer de l'énergie vers des lumières attachés dans un arbre. Le but du projet est de partager le message qu'il y a un mode de vie écologique et qu'il y a plein de techniques à mieux prendre soin de la nature.
+Ce projet interactif consiste à pédaler sur un vélo stationnaire permettant de générer de l'énergie vers des lumières attachées dans un arbre. Le but du projet est de partager le message qu'il y a un mode de vie écologique et qu'il y a plein de techniques à mieux prendre soin de la nature.
 
-On pouvait voir dans le studio le vélo stationnaire pas brancher à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières qu'ils avaient besoins pour le projet.
+On pouvait voir dans le studio le vélo stationnaire n’être pas branché à rien, car l'équipe venait de recevoir l'équipement de câbles et lumières dont ils avaient besoin pour le projet.
 
-J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, c'est pas mon préféré. J'ai pas aussi apprécié l'expérience dans le studio puisqu'il y en avait juste pas.
+J'ai mis ce projet en 4e position, j'aime l'idée d'écologie de génération d'énergie, mais je trouve que l'idée ne soit pas très originale, ce n’est pas mon préféré. Je n’ai pas aussi apprécié l'expérience dans le studio puisqu'il n’y en avait juste pas.
 
 ### Lien avec le thème Mycélium :
 Similaire au concept du projet Nexum, avec un thème de la nature, celle-ci illumine de la lumière grâce à un générateur d'énergie.
+
 
 
 #### Schéma :
@@ -194,13 +198,14 @@ Similaire au concept du projet Nexum, avec un thème de la nature, celle-ci illu
   </table>
 
 ##### Description: 
-Le projet ici est un jeu Web intéractif. L'individue doit aider une jeune fille à survivre et à tuer des créatures.
+Le projet ici est un jeu Web interactif. L'individu doit aider une jeune fille à survivre et à tuer des créatures.
 
-On a aucune connaissance visuelle de ce projet dû à l'absence de la réalisateure. Mais sur son site de préproduction, il est expliqué que le projet est censé être un jeu intéractif accessible au public.
+On n’a aucune connaissance visuelle de ce projet dû à l'absence de la réalisatrice. Mais sur son site de préproduction, il est expliqué que le projet est censé être un jeu interactif accessible au public.
 
-J'ai mis ce projet en dernière position car j'ai essayé le jeu, j'ai bien aimé, le concept est unique comparé aux autres projets, mais j'aurais aimé que la personne soit là pour expliquer le scénario de son jeu et son projet.
+J'ai mis ce projet en dernière position, car j'ai essayé le jeu, j'ai bien aimé, le concept est unique comparé aux autres projets, mais j'aurais aimé que la personne soit là pour expliquer le scénario de son jeu et son projet.
 
-Le jeu est compliqué à comprendre car il n'a pas vraiment de dialogue ou comment la jeune fille s'est trouvé dans un endroit pareille. J'ai beaucoup aimé le style de dessin, même si les dessins paraient tous comme un croquis, c'est difficile d'identifier qu'est-ce qui est quoi ou de savoir qu'est-ce qui se passe dans l'image. Les dessins n'ont pas d'animation, bon c'est un détail, l'animation visuel (particules, etc.) est bien.
+Le jeu est compliqué à comprendre, car il n'a pas vraiment de dialogue ou comment la jeune fille s'est trouvé dans un endroit pareil. J'ai beaucoup aimé le style de dessin, même si les dessins paraient tous comme un croquis, c'est difficile d'identifier qu'est-ce qui est quoi ou de savoir qu'est-ce qui se passe dans l'image. Les dessins n'ont pas d'animation, bon c'est un détail, l'animation visuelle (particules, etc.) est bien.
+
 
 ### Lien avec le thème Mycélium
 Aucune idée
@@ -225,8 +230,7 @@ Aucune idée
 ---
 
 ## Technique ou composante technologique
-
-Principallement MadMapper, c'est un logiciel qui a été utilisé par la majorité des équipes auquel je ne suis pas du tout familier. Il sert à la cartographie vidéo et affichage LED [^6]. Très professionnel dans le milieu des arts multimédias.
+Principalement MadMapper, c'est un logiciel qui a été utilisé par la majorité des équipes auquel je ne suis pas du tout familier. Il sert à la cartographie vidéo et affichage LED [^6]. Très professionnel dans le milieu des arts multimédias.
 
 
 ##### Liste des références:
