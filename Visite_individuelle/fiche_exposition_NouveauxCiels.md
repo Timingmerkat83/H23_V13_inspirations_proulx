@@ -39,6 +39,8 @@ La production que j'ai été visité était une expérience plutôt éducative q
 
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="75%">
 
+### Composantes
+Projecteur 360°
 ## Fonction / Gestes
 Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle.
 
@@ -46,6 +48,5 @@ Une animatrice proposait un vote au monde dans la salle selon la planète que l'
 Echomarine, le projet des étudiants des 3e années.
 #### Lien: Projection panoramique
 
-### Composantes
-Projecteur 360°
+
 [^note]: Visite faite avec mon père
