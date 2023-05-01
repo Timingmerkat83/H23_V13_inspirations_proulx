@@ -37,7 +37,11 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 La production que j'ai été visité était une expérience plutôt éducative qui parle des planètes habitables en dehors de notre système solaire.
 
 ## Fonction / Gestes
-Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol)
+Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle.
+
+# Liens avec autres oeuvres
+Echomarine, le projet des étudiants des 3e années.
+#### Lien: Projection panoramique
 
 ### Composantes
 Projecteur 360°
