@@ -1,14 +1,13 @@
 # Plan Oral
 
-## Plan
 
-### Introduction
+## Introduction
 
-#### Objectif
+### Objectif
 
 Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tinto Alcan à Montréal
 
-#### Aspects 
+### Aspects 
 - L'informations principales de l'oeuvre expliqué, lieu d'exposition, l'artiste, le nom de l'oeuvre, l'année de réalisation de l'oeuvre, le type d'exposition, etc.
 - Une présentation sera montrée. Sela implique une description, le type d'installation, sa fonction, sa mise en espace, ses composantes, etc...)
 - L'expérience vécue sera abordée.
@@ -17,19 +16,23 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 ---
 
-### Développement
+## Développement
 
-#### Informations principales
+### Informations principales
+- Lieu de l'exposition: Planétarium de Montréal;
+- Nom de l'oeuvre: Nouveaux Ciels
+- Réalisé par: 
 
-#### Présentation détaillée de l'oeuvre
 
-#### Expérience vécue
+### Présentation détaillée de l'oeuvre
 
-#### Appréciation de l'oeuvre
+### Expérience vécue
 
-#### Lien avec d'autres oeuvres vues cette session
+### Appréciation de l'oeuvre
+
+### Lien avec d'autres oeuvres vues cette session
 - Echomarine
 
 ---
 
-### Conclusion
+## Conclusion
