@@ -37,6 +37,7 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
   -
 
 2. Type d'installation
+- Installation intéractive.
 3. Fonction
  - Achat de billets
 4. Mise en espace
