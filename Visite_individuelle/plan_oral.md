@@ -29,7 +29,7 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 
 ### Présentation détaillée de l'oeuvre 
-<!-- Chaque aspects ci-dessous sont listés en ordre. -->
+<!-- Chaque aspects du développement ci-dessous sont listés en ordre. -->
 1. Description
   - Spectacle éducatif séparé en 2 parties: 
     - Première partie: Visite de planètes habitable, ou comme il les appellent, des exoplanètes.
@@ -56,3 +56,14 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 ---
 
 ## Conclusion
+<!-- Chaque aspects de la conclusion ci-dessous sont listés en ordre. -->
+- Rappel d'aspects
+
+      - Nom de l'oeuvre: Nouveux Ciels
+      - Réalisé par: Studio Félix & Paul
+      - Oeuvre immersive au Planétarium Montréal.
+      - Plusieurs composantes nécessaires
+
+- Ouverture
+  
+      
