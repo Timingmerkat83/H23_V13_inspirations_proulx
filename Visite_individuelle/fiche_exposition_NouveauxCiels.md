@@ -33,9 +33,10 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 
 ---
 
-# Présentation de l'oeuvre
+## Présentation de l'oeuvre
 La production que j'ai été visité était une expérience plutôt éducative qui parle des planètes habitables en dehors de notre système solaire.
 
+### Mise en espace
 
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="75%">
 
