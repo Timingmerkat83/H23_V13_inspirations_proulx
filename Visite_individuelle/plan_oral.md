@@ -28,9 +28,25 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 - Date de visite: Jeudi 2 mars 2023
 
 
-### Présentation détaillée de l'oeuvre
+### Présentation détaillée de l'oeuvre 
+<!-- Chaque aspects ci-dessous sont listés en ordre. -->
+1. Description
+  - Spectacle éducatif séparé en 2 parties: 
+    - Première partie: Visite de planètes habitable, ou comme il les appellent, des exoplanètes.
+    - Deuxième partie: Spectacle
+
+2. Type d'installation
+3. Fonction
+4. Mise en espace
+5. Composantes
+6. Éléments
+
 
 ### Expérience vécue
+
+ - Intéraction visuel avec la projection
+ - Geste posé: Vote du public qui influencera le déroulement de l'oeuvre.
+ - Animatrice qui pose des questions au public
 
 ### Appréciation de l'oeuvre
 
