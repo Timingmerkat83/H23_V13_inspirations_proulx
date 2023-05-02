@@ -33,7 +33,8 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 1. Description
   - Spectacle éducatif séparé en 2 parties: 
     - Première partie: Visite de planètes habitable, ou comme il les appellent, des exoplanètes.
-    - Deuxième partie: présentation historique sur les découvertes des planètes et exoplanètes.
+    - Deuxième partie: présentation historique sur les découvertes des planètes de notre système solaire et ainsi les exoplanètes.
+  -
 
 2. Type d'installation
 3. Fonction
