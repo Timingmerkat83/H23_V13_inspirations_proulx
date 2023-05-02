@@ -38,18 +38,28 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 2. Type d'installation
 3. Fonction
+ - Achat de billets
 4. Mise en espace
 5. Composantes
+- Projecteur 360
+- Hauts-Parleurs, pour la musique, effets sonores
+- Écran qui fait la moitié d'un globe
 6. Éléments
 
 
 ### Expérience vécue
 
  - Intéraction visuel avec la projection
+ - Expérience panoramique
  - Geste posé: Vote du public qui influencera le déroulement de l'oeuvre.
  - Animatrice qui pose des questions au public
 
 ### Appréciation de l'oeuvre
+
+#### Ce qui m'a plu
+J'ai beaucoup aimé l'expérience,
+
+### Ce qui m'a donné des idées
 
 ### Lien avec d'autres oeuvres vues cette session
 - Echomarine
