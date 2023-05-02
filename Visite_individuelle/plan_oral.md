@@ -19,9 +19,13 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 ## Développement
 
 ### Informations principales
+- Créé pour le complexe muséal *Espace pour la vie*
 - Lieu de l'exposition: Planétarium de Montréal;
 - Nom de l'oeuvre: Nouveaux Ciels
-- Réalisé par: 
+- Réalisé par: Studio Félix & Paul
+- Année de réalisation: 2021
+- Exposition intérieur et immersive
+- Date de visite: Jeudi 2 mars 2023
 
 
 ### Présentation détaillée de l'oeuvre
