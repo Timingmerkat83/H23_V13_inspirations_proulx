@@ -40,7 +40,8 @@ La production que j'ai été visité était une expérience plutôt éducative q
 
 ### Mise en espace
 
-<img src="Medias/Photos/planetarium_salle_interieur.jpg" width="75%">
+<img src="Medias/Photos/planetarium_salle_interieur.jpg" width="50%">
+<img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
 
 ### Composantes
 Projecteur 360°
