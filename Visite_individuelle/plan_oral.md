@@ -61,6 +61,7 @@ Présenter l'oeuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
       - Nom de l'oeuvre: Nouveux Ciels
       - Réalisé par: Studio Félix & Paul
+      - Année de réalisation
       - Oeuvre immersive au Planétarium Montréal.
       - Plusieurs composantes nécessaires
 
