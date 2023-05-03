@@ -51,7 +51,10 @@ La salle où se déroule le spectacle est une pièce circulaire. Dans cette piè
 - Haut-parleurs, qui servent pour qu'on entende bien la musique, les effets sonores, ainsi que la voix de l'animatrice.
 
 ### Éléments nécessaire à la mise en exposition
-
+- Ordinateur
+- Microphone
+- Sièges
+- 
 
 
 ## Fonction / Gestes
@@ -60,10 +63,16 @@ Une animatrice proposait un vote au monde dans la salle selon la planète que l'
 
 
 # Expérience vécue
-Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
+
 
 ## ❤️ Ce qui m'a plu
-J'ai beaucoup ce spectacle, non seulement l'expérience était unique pour moi, j'ai aussi appris des éléments de l'espace que je n'aurais jamais imaginé possible.
+Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
+J'ai beaucoup aimé ce spectacle, non seulement l'expérience était unique pour moi, j'ai aussi appris des éléments de l'espace que je n'aurais jamais imaginé possible.
+
+### Ce qui me donne des idées
+
+## Ce que je souhaite ne pas retenir
+
 
 # Liens avec autres œuvres
 Echomarine, le projet des étudiants des 3e années.
