@@ -44,6 +44,7 @@ Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 ### Mise en espace
 La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond.
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="50%">
+<img src="Medias/Photos/interieur_salle.jpg">
 <img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
 
 ### Composantes
