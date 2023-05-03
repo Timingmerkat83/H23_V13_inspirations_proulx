@@ -47,9 +47,16 @@ La salle où se déroule le spectacle est une pièce circulaire. Dans cette piè
 <img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
 
 ### Composantes
-- Projecteur 360°, afin de projeter une image panoramique sur le plafond
+- Projecteur 360°, afin de projeter une image panoramique sur le plafond.
+- Haut-parleurs, qui servent pour qu'on entende bien la musique, les effets sonores, ainsi que la voix de l'animatrice.
+
+### Éléments nécessaire à la mise en exposition
+
+
+
 ## Fonction / Gestes
 Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle.
+
 
 
 # Expérience vécue
