@@ -39,7 +39,7 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 La production que j'ai été visité était une expérience plutôt éducative qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). 
 
 ### Type d'installation
-Le spectacle Nouveux Ciels est une œuvre immersive.
+Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
 ### Mise en espace
 La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond.
