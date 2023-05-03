@@ -36,7 +36,7 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 ## Présentation de l'œuvre
 
 ### Description
-La production que j'ai été visité était une expérience éducative qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). 
+La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et  qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). 
 
 ### Type d'installation
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
@@ -61,6 +61,9 @@ Une animatrice proposait un vote au monde dans la salle selon la planète que l'
 
 # Expérience vécue
 Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
+
+## ❤️ Ce qui m'a plu
+J'ai beaucoup ce spectacle, non seulement l'expérience était unique pour moi, j'ai aussi appris des éléments de l'espace que je n'aurais jamais imaginé possible.
 
 # Liens avec autres œuvres
 Echomarine, le projet des étudiants des 3e années.
