@@ -2,7 +2,7 @@
 
 <img src="Medias/Photos/nouveaux-ciels.jpeg" width="60%" align="right" >
 
-## Titre
+## Titre du spectacle
 Nouveaux Ciels
 
 ## Artiste/Réalisateur
