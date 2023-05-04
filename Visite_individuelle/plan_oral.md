@@ -34,7 +34,6 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
   - Spectacle éducatif séparé en 2 parties: 
     - Première partie: Visite de planètes habitable, ou comme il les appellent, des exoplanètes.
     - Deuxième partie: présentation historique sur les découvertes des planètes de notre système solaire et ainsi les exoplanètes.
-  -
 
 2. Type d'installation
 - Installation interactive.
@@ -59,10 +58,9 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
  - Geste posé: Vote du public qui influencera le déroulement de l'œuvre.
  - Animatrice qui pose des questions au public
 
-### Appréciation de l'œuvre
-
 #### Ce qui m'a plu
-Le thème du spectacle.
+- Le thème du spectacle. Les différentes techniques multimédias utilisé durant le spectacle, les effets visuels, audio, etc., car ce sont tous des techniques que je trouve inspirant pour des projets à venir.
+- J'aime beaucoup l'éducation de ce spectacle, malgré le fait que je sois venu pour faire un travail, j'ai beaucoup appris sur des faits de l'espace que je ne croyais pas qui étaient possible.
 
 ### Ce qui m'a donné des idées
 Les animations de transitions entre planète me d
