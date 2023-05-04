@@ -6,7 +6,7 @@
 Nouveaux Ciels
 
 ## Artiste/Réalisateur
-Cette pièce a été réalisé par le studio __Félix & Paul__
+Cette pièce a été réalisé par le studio __Félix & Paul__, en collaboration avec Time Studios
 
 ## Année de réalisation
 Nouveaux Ciels a été réalisé en 2021
@@ -14,7 +14,7 @@ Nouveaux Ciels a été réalisé en 2021
 
 ### Lieu de l'exposition
 
-L'exposition se trouve au Planétarium Rio Tinto Alcan à Montréal, est voisin du Stade Olympique et du Biodôme.
+L'exposition se trouve au Planétarium Rio Tinto Alcan à Montréal, situé dans L'Espace pour la Vie, est voisin du Stade Olympique et du Biodôme.
 
 #### Informations du lieu
 
@@ -36,7 +36,7 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 ## Présentation de l'œuvre
 
 ### Description
-La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et  qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Le spectacle est séparé en 2 parties.
+La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et qui parle des caractéristiques des planètes, le but étant de trouver une planète habitable en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Elle va prendre le vote de la salle ce qui influencera le voyage dans l'espace. Ce qui fait de ce spectacle, un spectacle participatif.
 
 1ère partie, on voyage dans l'espace en dehors de notre système solaire, à la recherche d'une exoplanète, avec l'aide du public, on détermine notre destination.
 
@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/24527925/236112049-bd9d93f5-0d44-40f3-
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
 ### Mise en espace
-La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond.
+Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcande, étant le successeur du Planétarium de Montréal. La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond.
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="50%">
 <img src="Medias/Photos/interieur_salle.jpg">
 <img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
@@ -80,11 +80,12 @@ Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir r
 
 
 
-## ❤️ Ce qui m'a plu
+## ❤️ Ce qui m'a plu, ce qui me donne des idées.
+Ce qui m'a plus plu, c'est le thème spaciale du spectacle. Les différentes techniques multimédias utilisé durant le spectacle, les effets visuels, effets sonores, toute ces technniques sont utilisés dans un ce sont tous des techniques que je trouve inspirant pour des projets à venir.
 
-J'ai beaucoup aimé ce spectacle, non seulement l'expérience était unique pour moi, j'ai aussi appris des éléments de l'espace que je n'aurais jamais imaginé possible.
+J'aime beaucoup l'éducation de ce spectacle, malgré le fait que je sois venu pour faire un travail, j'ai beaucoup appris sur des faits de l'espace que je ne croyais pas qui étaient possible, cela me donne l'idée de créer un projet avec un but éducatif à l'avenir
 
-### Ce qui me donne des idées
+
 
 ## Ce que je souhaite ne pas retenir
 Si je pouvais changer quelque chose dans ce spectacle, c'est la musique, le choix de la musique qui jouait lors du spectacle n'avait rien avoir avec le thème de l'espace.
@@ -96,3 +97,8 @@ Echomarine, le projet des étudiants des 3e années. Je compare le spectacle ave
 
 
 [^note]: Visite faite avec mon père
+
+## Références 
+https://www.newswire.ca/fr/news-releases/objectif-nouveaux-ciels-a-la-recherche-de-planetes-habitables-826166898.html
+
+
