@@ -71,7 +71,7 @@ Les animations de transitions entre planète me d
 - Le manque de visuel lorsque l'animatrice explique une partie d'histoire.
 
 ### Lien avec d'autres œuvres vues cette session
-- Echomarine
+- Echomarine de l'exposition Mycélium réalisé par les troisième années: Aspects multimédia comme les effets sonores, la musique, les effets visuels et bien sur la projection d'animations.
 
 ---
 
