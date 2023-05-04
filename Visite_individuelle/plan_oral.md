@@ -52,7 +52,7 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 
 ### Expérience vécue
-
+ - Éducation sur l'espace et l'évolution de la découverte des planètes.
  - Interaction visuel avec la projection
  - Expérience panoramique
  - Geste posé: Vote du public qui influencera le déroulement de l'œuvre.
