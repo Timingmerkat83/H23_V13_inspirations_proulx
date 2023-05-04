@@ -43,7 +43,13 @@ La production que j'ai été visité était une expérience éducative qui nous 
 2e partie, cette partie consiste un peu d'histoire sur la découverte des planètes et les méthodes de recherche
 
 <img src="Medias/Photos/objectif_nouveauxciels.png">
-<img src="Medias/Videos/video_nouveaux_ciels.mp4">
+
+
+
+https://user-images.githubusercontent.com/24527925/236112049-bd9d93f5-0d44-40f3-ad1e-b1f275497215.mp4
+
+
+
 ### Type d'installation
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
@@ -81,11 +87,12 @@ J'ai beaucoup aimé ce spectacle, non seulement l'expérience était unique pour
 ### Ce qui me donne des idées
 
 ## Ce que je souhaite ne pas retenir
+Si je pouvais changer quelque chose dans ce spectacle, c'est la musique, le choix de la musique qui jouait lors du spectacle n'avait rien avoir avec le thème de l'espace.
 
 
 # Liens avec autres œuvres
 Echomarine, le projet des étudiants des 3e années. Je compare le spectacle avec ce projet car l'expérience panoramique est similaire.
-#### Lien: Projection panoramique
+#### Lien: Projection d'animations.
 
 
 [^note]: Visite faite avec mon père
