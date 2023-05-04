@@ -41,7 +41,8 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 3. Fonction
  - Achat de billets
 4. Mise en espace
-Spectacle situé dans une salle 
+- Spectacle situé dans une salle circulaire
+- Projecteur 360 degrées dans le milieu de la salle
 5. Composantes
 - Projecteur 360
 - Haut-Parleurs, pour la musique, effets sonores
