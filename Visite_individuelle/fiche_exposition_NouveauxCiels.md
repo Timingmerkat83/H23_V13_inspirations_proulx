@@ -69,7 +69,7 @@ Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcan
 ### Éléments nécessaire à la mise en exposition
 - Ordinateur
 - Microphone
-- Sièges
+- 50-60 sièges
 - Câbles iEC
 - Bande de sons
 - Une animatrice
