@@ -43,7 +43,7 @@ La production que j'ai été visité était une expérience éducative qui nous 
 2e partie, cette partie consiste un peu d'histoire sur la découverte des planètes et les méthodes de recherche
 
 <img src="Medias/Photos/objectif_nouveauxciels.png">
-
+<img src="Medias/Videos/video_nouveaux_ciels.mp4">
 ### Type d'installation
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
