@@ -38,7 +38,8 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 ## Présentation de l'œuvre
 
 ### Description
-La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et qui parle des caractéristiques des planètes, le but étant de trouver une planète habitable en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Elle va prendre le vote de la salle ce qui influencera le voyage dans l'espace. Ce qui fait de ce spectacle, un spectacle participatif.
+La présentation que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et qui parle des caractéristiques des planètes, 
+Sa durée du spectacle a été un total de 45 minutes. Le but étant de trouver une planète habitable en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Elle va prendre le vote de la salle ce qui influencera le voyage dans l'espace. Ce qui fait de ce spectacle, un spectacle participatif.
 1ère partie, on voyage dans l'espace en dehors de notre système solaire, à la recherche d'une exoplanète, avec l'aide du public, on détermine notre destination.
 
 2e partie, cette partie consiste un peu d'histoire sur la découverte des planètes et les méthodes de recherche
@@ -80,7 +81,6 @@ Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcan
 Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. Durant le déroulement du spectacle, l'animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. Lorsque le vote a été établi, une transition qui fait penser à l'effet vitesse lumière dans Star Wars se déclenche jusqu'à la destination de la nouvelle planète. Lorsqu'on découvre qu'une planète quelconque n'est pas habitable, c'est l'heure de passer au vote pour la prochaine planète, ainsi de suite jusqu'à ce qu'on puisse trouver une planète habitable.
 
 Ensuite dans la prochaine et dernière section du spectacle, une partie historique raconté par l'animatrice qui parle de l'évolution de la découverte des planètes. Tout ça avec des effets visuels constant lors des explications. L'animatrice poserait souvent des questions au public les laissants deviner en quelle année tel planète a été découverte.
-La durée du spectacle a duré en tout 45 minutes.
 
 Ce fut l'une des expériences immersives préférée jusqu'à maintenant. J'ai beaucoup aimé mon séjour dans cette salle. Ce genre de spectacle ne peut pas être apprécié en regardant juste une vidéo trouvé en ligne, il faut vraiment y être pour apprécier.
 
