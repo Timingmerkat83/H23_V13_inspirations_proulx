@@ -31,7 +31,7 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 ### Présentation détaillée de l'œuvre 
 <!-- Chaque aspects du développement ci-dessous sont listés en ordre. -->
 1. Description
-  - Spectacle éducatif séparé en 2 parties: 
+  - Spectacle éducatif et participatif séparé en 2 parties: 
     - Première partie: Visite de planètes habitable, ou comme il les appellent, des exoplanètes.
     - Deuxième partie: présentation historique sur les découvertes des planètes de notre système solaire et ainsi les exoplanètes.
 
@@ -75,7 +75,7 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 ### Lien avec d'autres œuvres vues cette session
 - Echomarine de l'exposition Mycélium réalisé par les troisième années: Aspects multimédia comme les effets sonores, la musique, les effets visuels et bien sur la projection d'animations.
-
+- BIAN l'oeuvre koréen
 ---
 
 ## Conclusion
