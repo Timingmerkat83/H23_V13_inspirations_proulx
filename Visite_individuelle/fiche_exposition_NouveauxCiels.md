@@ -62,6 +62,7 @@ Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcan
 ### Composantes
 - Projecteur 360°, afin de projeter une image panoramique sur le plafond.
 - Haut-parleurs, qui servent pour qu'on entende bien la musique, les effets sonores, ainsi que la voix de l'animatrice.
+- Animation 3D  / 2D
 
 ### Éléments nécessaire à la mise en exposition
 - Ordinateur
