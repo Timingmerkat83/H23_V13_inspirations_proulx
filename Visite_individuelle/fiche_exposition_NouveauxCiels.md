@@ -70,13 +70,12 @@ Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcan
 - Câbles iEC
 
 
-## Fonction / Gestes
-Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. 
-
 
 
 # Expérience vécue
-Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. J'avais l'impression de faire partie d'une aventure dans l'espace.
+Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. Durant le déroulement du spectacle, l'animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. 
+
+Ce fut l'une des expériences immersives préférée jusqu'à maintenant.
 
 
 
@@ -85,10 +84,10 @@ Ce qui m'a plus plu, c'est le thème spaciale du spectacle. Les différentes tec
 
 J'aime beaucoup l'éducation de ce spectacle, malgré le fait que je sois venu pour faire un travail, j'ai beaucoup appris sur des faits de l'espace que je ne croyais pas qui étaient possible, cela me donne l'idée de créer un projet avec un but éducatif à l'avenir
 
-
+J'ai aussi adoré l'expérience virtuelle, j'avais l'impression de faire partie d'une aventure dans l'espace comme si j'y étais.
 
 ## Ce que je souhaite ne pas retenir
-Si je pouvais changer quelque chose dans ce spectacle, c'est la musique, le choix de la musique qui jouait lors du spectacle n'avait rien avoir avec le thème de l'espace.
+Si je pouvais changer quelque chose dans ce spectacle, c'est la musique, le choix de la musique qui jouait lors du spectacle n'avait rien avoir avec le thème de l'espace. J'avais de la difficulté de voir le lien entre la musique choisi et le visuel.
 
 
 # Liens avec autres œuvres
