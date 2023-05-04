@@ -75,7 +75,7 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 
 ### Lien avec d'autres œuvres vues cette session
 - Echomarine de l'exposition Mycélium réalisé par les troisième années: Aspects multimédia comme les effets sonores, la musique, les effets visuels et bien sur la projection d'animations.
-- BIAN l'oeuvre koréen
+- BIAN l'oeuvre koréen. Titre de l'oeuvre à consulter
 ---
 
 ## Conclusion
