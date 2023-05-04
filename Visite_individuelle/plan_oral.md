@@ -67,10 +67,11 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 - J'aime beaucoup l'éducation de ce spectacle, malgré le fait que je sois venu pour faire un travail, j'ai beaucoup appris sur des faits de l'espace que je ne croyais pas qui étaient possible.
 
 ### Ce qui m'a donné des idées
-Les animations de transitions entre planète me d
+- L'éducation intégré dans une oeuvre
+- Le thème
 
 ### Ce que je souhaite ne pas retenir
-- Le manque de visuel lorsque l'animatrice explique une partie d'histoire.
+- La musique qui allait avec le film, je ne trouvais pas la musique vraiment compatible avec le thème spaciale.
 
 ### Lien avec d'autres œuvres vues cette session
 - Echomarine de l'exposition Mycélium réalisé par les troisième années: Aspects multimédia comme les effets sonores, la musique, les effets visuels et bien sur la projection d'animations.
