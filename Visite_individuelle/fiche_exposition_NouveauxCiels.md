@@ -37,7 +37,6 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 
 ### Description
 La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et qui parle des caractéristiques des planètes, le but étant de trouver une planète habitable en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Elle va prendre le vote de la salle ce qui influencera le voyage dans l'espace. Ce qui fait de ce spectacle, un spectacle participatif.
-
 1ère partie, on voyage dans l'espace en dehors de notre système solaire, à la recherche d'une exoplanète, avec l'aide du public, on détermine notre destination.
 
 2e partie, cette partie consiste un peu d'histoire sur la découverte des planètes et les méthodes de recherche
@@ -54,7 +53,8 @@ https://user-images.githubusercontent.com/24527925/236112049-bd9d93f5-0d44-40f3-
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
 ### Mise en espace
-Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcande, étant le successeur du Planétarium de Montréal. La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond.
+Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcande, étant le successeur du Planétarium de Montréal. La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond. Le plafond contient un très long drap blanc qui le couvre au complèt ayant la forme de la moitié d'un globe. L'intérieur de la salle fait beaucoup pensé à une salle de cinéma, mais plus petit, et dans ce contexte l'écran deviens le plafond.
+
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="50%">
 <img src="Medias/Photos/interieur_salle.jpg">
 <img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
@@ -73,7 +73,7 @@ Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcan
 
 
 # Expérience vécue
-Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. Durant le déroulement du spectacle, l'animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. 
+Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. Durant le déroulement du spectacle, l'animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. Lorsque le vote a été établi, une transition qui fait penser à l'effet vitesse lumière dans Star Wars se déclenche jusqu'à la destination de la nouvelle planète. Lorsqu'on découvre qu'une planète quelconque n'est pas habitable, c'est l'heure de passer au vote pour la prochaine planète, ainsi de suite jusqu'à ce qu'on puisse trouver une planète habitable.
 
 Ce fut l'une des expériences immersives préférée jusqu'à maintenant.
 
