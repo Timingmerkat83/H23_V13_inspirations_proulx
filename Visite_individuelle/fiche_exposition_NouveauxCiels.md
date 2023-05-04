@@ -5,6 +5,8 @@
 ## Titre du spectacle
 Nouveaux Ciels
 
+<img src="Medias/Photos/interieur_salle.jpg">
+
 ## Artiste/Réalisateur
 Cette pièce a été réalisé par le studio __Félix & Paul__, en collaboration avec Time Studios
 
@@ -56,7 +58,6 @@ Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 Cette installation ce retrouvait à l'intérieur du Planétarium Rio Tinto Alcande, étant le successeur du Planétarium de Montréal. La salle où se déroule le spectacle est une pièce circulaire. Dans cette pièce on retrouve plusieurs rangés de sièges qui entourent un projecteur qui illumine le plafond, les sièges sont un peu inclinés vers l'arrière pour que l'individu regarde confortablement le plafond. Le plafond contient un très long drap blanc qui le couvre au complèt ayant la forme de la moitié d'un globe. L'intérieur de la salle fait beaucoup pensé à une salle de cinéma, mais plus petit, et dans ce contexte l'écran deviens le plafond.
 
 <img src="Medias/Photos/planetarium_salle_interieur.jpg" width="50%">
-<img src="Medias/Photos/interieur_salle.jpg">
 <img src="Medias/Photos/Visite_Individuelle_Croquis.png" width="75%" >
 
 ### Composantes et techniques
