@@ -38,6 +38,8 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 ### Description
 La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et  qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). 
 
+<img src="Medias/Photos/objectif_nouveauxciels.png">
+
 ### Type d'installation
 Le spectacle Nouveux Ciels est une œuvre interactive et immersive.
 
@@ -55,19 +57,19 @@ La salle où se déroule le spectacle est une pièce circulaire. Dans cette piè
 - Ordinateur
 - Microphone
 - Sièges
-- 
+- Câbles iEC
 
 
 ## Fonction / Gestes
-Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle.
+Une animatrice proposait un vote au monde dans la salle selon la planète que l'on désire visiter. Méthode de vote: Principalement faire le plus de bruit possible (crier, clapper des mains, taper les pieds sur le sol). Notre vote influencerait le déroulement du spectacle. 
 
 
 
 # Expérience vécue
-
+Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
 
 ## ❤️ Ce qui m'a plu
-Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
+
 J'ai beaucoup aimé ce spectacle, non seulement l'expérience était unique pour moi, j'ai aussi appris des éléments de l'espace que je n'aurais jamais imaginé possible.
 
 ### Ce qui me donne des idées
