@@ -36,7 +36,11 @@ C'était une exposition intérieure et immersive, c'était comme aller au ciném
 ## Présentation de l'œuvre
 
 ### Description
-La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et  qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). 
+La production que j'ai été visité était une expérience éducative qui nous transporte dans l'espace et  qui parle des planètes habitables en dehors de notre système solaire (exoplanètes). Une animatrice qui est présente dans la salle joue le rôle de la naratrice. Le spectacle est séparé en 2 parties.
+
+1ère partie, on voyage dans l'espace en dehors de notre système solaire, à la recherche d'une exoplanète, avec l'aide du public, on détermine notre destination.
+
+2e partie, cette partie consiste un peu d'histoire sur la découverte des planètes et les méthodes de recherche
 
 <img src="Medias/Photos/objectif_nouveauxciels.png">
 
@@ -66,7 +70,9 @@ Une animatrice proposait un vote au monde dans la salle selon la planète que l'
 
 
 # Expérience vécue
-Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle.
+Cette expérience immersive était vraiment spectaculaire, le fait de s'assoir regarder le vide de l'espace sur une projection au plafond m'a donné l'impression d'y être, exactement comme dans une réalité virtuelle. J'avais l'impression de faire partie d'une aventure dans l'espace.
+
+
 
 ## ❤️ Ce qui m'a plu
 
@@ -78,7 +84,7 @@ J'ai beaucoup aimé ce spectacle, non seulement l'expérience était unique pour
 
 
 # Liens avec autres œuvres
-Echomarine, le projet des étudiants des 3e années.
+Echomarine, le projet des étudiants des 3e années. Je compare le spectacle avec ce projet car l'expérience panoramique est similaire.
 #### Lien: Projection panoramique
 
 
