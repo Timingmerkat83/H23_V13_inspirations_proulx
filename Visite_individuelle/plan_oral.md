@@ -48,7 +48,11 @@ Présenter l'œuvre nommé *Nouveaux Ciels* se trouvant au Planétarium Rio Tint
 - Écran qui fait la moitié d'un globe
 - Microphone
 6. Éléments
- - Approximativement 100 sièges
+ - Ordinateur
+ - Microphone
+ - Animatrice
+ - Càbles IEC
+ - Haut-parleurs.
 
 
 ### Expérience vécue
